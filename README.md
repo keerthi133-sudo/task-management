@@ -2,7 +2,10 @@
 
 A simple yet powerful task management web application built with Laravel 10, featuring inline editing, filtering, and task completion functionality. This application demonstrates modern web development practices with a clean, responsive interface and robust backend architecture.
 
-## Sample Screen(`resources/views/Task Management.mp4`)
+## Sample Screen
+
+`resources/views/Task Management.mp4`
+
 
 ## Features
 
@@ -414,39 +417,4 @@ EXPOSE 80
 7. **Queue System**: Background job processing
 8. **Real-time Updates**: WebSocket integration for live updates
 
-## Contributing
-
-### Development Guidelines
-1. Follow PSR-12 coding standards
-2. Write comprehensive tests for new features
-3. Update documentation for any changes
-4. Use meaningful commit messages
-5. Create feature branches for new development
-
-### Code Style
-- Use Laravel's conventions and best practices
-- Follow RESTful principles for API design
-- Maintain consistent naming conventions
-- Comment complex logic and algorithms
-
-## License
-
-This project is open-source software licensed under the [MIT License](LICENSE).
-
-## Support
-
-For questions, issues, or contributions, please:
-1. Check the existing documentation
-2. Search for existing issues
-3. Create a new issue with detailed information
-4. Follow the contribution guidelines
-
-## Acknowledgments
-
-- Laravel Framework for providing an excellent foundation
-- Bootstrap team for the responsive CSS framework
-- jQuery team for JavaScript functionality
-- The open-source community for inspiration and best practices
-
----
 
